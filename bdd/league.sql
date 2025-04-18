@@ -1,0 +1,3 @@
+﻿CREATE TABLE league(name VARCHAR(255),season VARCHAR(255),number_of_clubs DOUBLE,total_matches DOUBLE,matches_completed DOUBLE,game_week DOUBLE,total_game_week DOUBLE,total_corners_for_season DOUBLE,total_cards_for_season DOUBLE);
+INSERT INTO league (name,season,number_of_clubs,total_matches,matches_completed,game_week,total_game_week,total_corners_for_season,total_cards_for_season) VALUES 
+('Premier League','2018/2019',20,380,380,38,38,3907,1315);

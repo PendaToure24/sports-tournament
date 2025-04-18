@@ -1,0 +1,19 @@
+body {
+    background-image: url(../images/champion.jpg);
+}
+.carousel-item{
+    width: 200px;
+    height: 300px;
+    margin: 50px
+}
+.titre h2{
+    color: rgb(19, 3, 3);
+    text-align: center;
+}
+.titre_clas h2{
+    color: rgb(5, 12, 12);
+    text-align: center;
+}
+
+  
+  
